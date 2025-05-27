@@ -25,7 +25,8 @@
 				"dbaeumer.vscode-eslint",
 				"mtxr.sqltools",
 				"mtxr.sqltools-driver-pg",
-				"jakebecker.elixir-ls"
+				"victorbjorklund.phoenix",
+				"elixir-lsp.elixir-ls"
 			]
 		}
 	}
